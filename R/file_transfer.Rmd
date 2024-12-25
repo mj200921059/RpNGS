@@ -1,0 +1,151 @@
+---
+title: "file_transfer"
+output: html_document
+date: "2024-12-24"
+---
+#===============================================================================
+#
+# 3. file tranfers
+#===============================================================================
+
+# step for scp tranfers files 
+# 1. ping each other make sure network is work
+# eg ping 192.168.14.50
+# 2. ssh from linux to window 
+# 2.1 install openssh server on windows: search internet for the answer 
+# // Get-WindowsCapability -Online | ? Name -like 'OpenSSH*' 
+# 
+# result: 
+# Name  : OpenSSH.Client~~~~0.0.1.0
+# State : Installed
+# 
+# Name  : OpenSSH.Server~~~~0.0.1.0
+# State : Installed
+# 
+# 2.2 run server on windows
+# // Start-Service sshd
+# // Set-Service -Name sshd -StartupType 'Automatic'
+
+# or you also can do this **** recommended *****
+# Now, you’ll need to configure the SSH server to start every time you boot Windows 10. Here’s how:
+#   
+#   Press the Windows key + R. In the Run dialog type services.msc, hit Enter.
+# 
+# Then scroll down and double-click one after the other – OpenSSH SSH Server and OpenSSH Authentication Agent – and set the Startup type to Automatic.
+# 
+# Click Apply > OK
+
+# 2.3 keygen generation on linux # 
+# Specifying the File Name
+# ssh-keygen -f ~/tatu-key-ecdsa -t ecdsa -b 521
+# output files would be id_xxx,id_xxx.pub
+
+# 2.4 copy public key 
+# Manual copy the conent of id_xxx.pub to the file named administrators_authorized_keys on linux
+# then put administrators_authorized_keys on windows folder %PROGRAMDATA%\ssh
+
+# or 
+# on windows 
+# // Notepad.exe $env:PROGRAMDATA\ssh\administrators_authorized_keys
+
+
+# 2.5 change ssh config file and restart ssh server
+
+# // Notepad.exe $env:PROGRAMDATA\ssh\sshd_config
+# connet change
+
+# Let’s look at some of the sshd_config directives:
+#   
+# Enable the SSH key-based authentication: PubkeyAuthentication yes [that means remove the "#" symbol of this line]
+# Disable password auth: PasswordAuthentication no
+# Change the SSH port number (from the default TCP 22): Port 22
+
+
+#restrat server
+
+# // Get-Service sshd| Restart-Service –force
+
+
+# 2.6 connection 
+
+# make sure ssh user on windows 
+# 2.6.1. find this path on windows 
+ # C:\Users\NWU_M
+# NWU_M is the user of ssh
+
+# 2.6.2 connection 
+# RUN CODE ON LINUX 
+ # // ssh NWU_M@192.168.14.50 (ip add is windows pc )
+
+# 3. when finished step 2,  scp file from windows to local linux [consider window is server]
+# eg
+# // cd dataanalysis/projects/
+# // scp NWU_M@192.168.14.50:C:/Result/OutputFq/test1.txt ./web
+
+# *******************************************
+
+# 4 ssh connect windows to linux
+
+# 3.1 need publickey authorite?  follow the instruments to generate keygen. https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement
+# generate authorized_keys file. using window (.ssh/id_xxx,id_xxx.pub) link to linux (.ssh/authorized_keys, which is made by manual copy the conent of id_xxx.pub using vi)
+
+# connection 
+# ssh dell@192.168.6.206
+# (passphrase:m49005740)
+
+#
+
+
+
+# 5. when finished step 4, scp file from linux to window local.[consider linux is server ]
+# 
+# scp dell@192.168.6.206:./dataanalysis/projects/test1.txt C:\Result
+# ---------------------------------
+# 3.1 Unable to ping a Windows machine from Linux
+
+# //I have Windows installed on my laptop, connected to the router wirelessly with IP 192.168.1.5. 
+# My desktop is running Linux, connected to the same router (wired) with IP 192.168.1.2. 
+# When I do a ping from Windows to Linux, I get a response, but it doesn't work in the other direction. What could be the problem?//
+
+# SOLVE 
+# check the windows firewall, that it allows ICMP 
+
+# How to Allow ICMP (ping) Through Windows Firewall  https://arcadian.cloud/windows/2022/12/08/how-to-allow-icmp-ping-through-windows-firewall/
+
+#----------------------------------
+
+# get files based on list.txt from local computer
+#if you have the text file already created you do the following
+
+#/ cat /location/file.txt | xargs -i scp {} user@server:/location
+
+
+
+# this will go line by line of the output of the file.txt and run the scp comamand per line; I hope this helps.
+
+# This worked wonderfully! What I did instead of xargs on the scp call was use xargs on a cp on the remote server to isolate the files to a directory, somewhat like: cat files.txt | xargs -l bash -c 'cp $0 $1', then used a single scp command to pull that directory. Thank you!
+
+
+
+# after seting, you can try this example for checking function 
+
+```{r}
+# transfer files through scp 
+
+# 
+filetransfer <- function(fn,pthwindwos,pthserver){
+  for(i in fn){
+    #system(paste0("scp NWU_M@192.168.14.50:",pthwindwos,i," ",pthserver ))
+    system(paste0("scp NWU_M@192.168.0.102:",pthwindwos,i," ",pthserver )) # 
+  }
+}
+
+
+# test
+f <- c("test.txt","test1.txt","test2.txt","test3.txt")
+pd1<- "C:/Result/OutputFq/"
+pd2 <- "~/dataanalysis/projects/RpNGS_lifegen/RpNGS/data/ssh_test"
+
+filetransfer(f,pd1,pd2)
+```
+
