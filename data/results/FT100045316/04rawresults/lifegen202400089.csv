@@ -1,0 +1,57 @@
+"","taxonomy_id","Perct","Reads","Specific_reads","Level","Taxa_names","species","Kingdom","Gram+/-","菌属中文名","菌种中文名","名词解释","ss_esti"
+"1",158,0.000959919662108279,65,65,"S","Treponema denticola","Treponema denticola","Bacteria","G-","密螺旋体属","齿垢密螺旋体","引起成年人牙周病",65
+"2",199,0.00035443187523998,24,24,"S","Campylobacter concisus","Campylobacter concisus","Bacteria","G-","弯曲菌属","简要弯曲菌","弯曲菌属菌种，革兰阴性，厌氧或微需氧。是引起人类胃肠道疾病的病原体，包括由急性肠胃道感染导致的腹泻，胃食管反流病，巴雷特食管，炎症性肠炎等。血流感染可为迁徙性感染，伴反复发热，血管内感染可导致心内膜炎，感染性动脉瘤，易导致感染性血栓性静脉炎。",24
+"3",200,0.000162447942818324,11,11,"S","Campylobacter curvus","Campylobacter curvus","Bacteria","G-","弯曲菌属","曲形弯曲菌","弯曲菌属菌种，可存在于人类口腔，厌氧。具有机会致病性，可导致口腔外感染，如脓胸，肠胃道感染，肝脓肿等。",11
+"4",203,0.0489559027675222,3315,3315,"S","Campylobacter rectus","Campylobacter rectus","Bacteria","G-","弯曲菌属","直肠弯曲菌","0",221.974908943747
+"5",204,0.00719201346841126,487,487,"S","Campylobacter showae","Campylobacter showae","Bacteria",NA,NA,NA,NA,2.59284759487107
+"6",824,0.000251055911628319,17,17,"S","Campylobacter gracilis","Campylobacter gracilis","Bacteria","G-","弯曲菌属","纤细弯曲菌","弯曲菌属菌种，有机会致病性，可导致人口腔疾病，如牙周，牙髓感染，也可导致颈部感染，肺部感染，菌血症等口腔外感染。",17
+"7",837,0.240659243287946,16296,16296,"S","Porphyromonas gingivalis","Porphyromonas gingivalis","Bacteria","G-","卟啉单胞菌属","牙龈卟啉单胞菌","牙龈卟啉单胞菌是一种非酵解糖的革兰氏阴性厌氧球杆菌，被认为是牙周疾病最重要的致病菌之一,与多种牙周疾病特别是成年人牙周炎关系密切。",16296
+"8",851,0.00255486310068819,173,173,"S","Fusobacterium nucleatum","Fusobacterium nucleatum","Bacteria","G-","梭杆菌属","具核梭杆菌","梭杆菌属代表菌种，革兰氏阴性，厌氧，菌体细长，两端尖，有时呈长丝状。是口腔共生菌，可引起人的口腔感染，肺脓肿或胸膜肺部感染。",173
+"9",859,0.000280591901231651,19,19,"S","Fusobacterium necrophorum","Fusobacterium necrophorum","Bacteria","G-","梭杆菌属","坏死梭杆菌","革兰氏阴性菌，厌氧，多形态，有球状，杆状，丝状和链状,一般通过损伤的皮肤和粘膜感染,可引起人的咽部化脓，齿龈化脓，腹膜炎，产道感染等，偶见阑尾炎，膀胱炎。用磺胺和抗生素治疗有效。",19
+"10",1313,0.00258439909029152,175,175,"S","Streptococcus pneumoniae","Streptococcus pneumoniae","Bacteria","G+","链球菌属","肺炎链球菌","肺炎链球菌为口腔和鼻咽部正常菌群，一般不致病。当机体抵抗力下降时，可引起大叶性肺炎或支气管肺炎，还可引起化脓性脑膜炎、中耳炎、乳突炎、鼻窦炎、脑脓肿、菌血症和心内膜炎等。",175
+"11",1328,0.00152110346457158,103,103,"S","Streptococcus anginosus","Streptococcus anginosus","Bacteria","G+","链球菌属","咽峡炎链球菌","咽峡炎链球菌是星座链球菌中一种。广泛分布于外部环境及人和动物的体表，口鼻腔和肠道，可引起心内膜炎、肺炎、菌血症、腹腔或皮肤感染等。",103
+"12",1747,0.000265823906429985,18,18,"S","Cutibacterium acnes","Cutibacterium acnes","Bacteria","G+","丙酸杆菌属","痤疮丙酸杆菌","痤疮丙酸杆菌是一种革兰染色阳性的厌氧短杆菌，细胞内寄生，属于皮肤的正常菌群，一般寄居在皮肤的毛囊及皮脂腺中。随着青少年的发育成熟，毛囊口出现角栓，皮脂腺分泌功能也明显增加，因皮脂含有较多脂肪酸等成分，适合P. acnes的生长及繁殖，从而成为痤疮最主要的病因之一。",-2.71000751575418
+"13",2100,0.00107806362052161,73,73,"S","Mesomycoplasma hyorhinis","Mesomycoplasma hyorhinis","Bacteria",NA,NA,NA,NA,73
+"14",5476,0.937142857142857,164,164,"S","Candida albicans","Candida albicans","Eukaryota","fun","念珠菌属","白色念珠菌","寄生于正常人口腔上呼吸道和消化道等部位，一般不引起健康人的肺部疾病，在健康水平较差、抵抗力明显下降，大量应用抗生素及长期或大剂量应用激素时易患该病。此外，还可引起泌尿道炎、心内膜炎及脑膜炎等，偶可引起念珠菌性败血症。",164
+"15",5811,0.0628571428571429,11,11,"S","Toxoplasma gondii","Toxoplasma gondii","Eukaryota","par","Toxoplasma","弓形虫","人和人之间也可以互相传染，大多数人都是弓形虫带虫者，形成带虫免疫，被感染后很难出现初次感染的症状。患弓形虫病人的尿液，唾液、眼泪、鼻涕、带有弓形虫包囊。急性发作的病人的喷嚏，可以成为飞沫传染源。患有弓形虫病的妇女，在月经期弓形虫活动最强烈，妇女所排的经血里面常含有大量的弓形虫包囊，是一个不小的传染源，决不应忽视。另外，患弓形虫病男人的精液中、也带弓形虫包囊，人类通过性行为可以互相传染。人吃感染动物的肉，是传染的主要原因。",0
+"16",10533,0.333333333333333,1,1,"S1","Human adenovirus 1","Human mastadenovirus C","Viruses","vir",NA,"人类腺病毒","对呼吸道、胃肠道、尿道和膀胱、眼、肝脏等均可感染，人类腺病毒约1/3的已知血清型通常与人类疾病相关，但一种血清型可引起不同的临床疾患；相反，不同血清型也可引起同一种疾患。",1
+"17",28112,0.596228254127655,40373,40373,"S","Tannerella forsythia","Tannerella forsythia","Bacteria","G-","福赛斯坦纳菌","福赛斯坦纳菌","是一种革兰阴性厌氧杆菌,是牙周病重要的致病菌之一。",40373
+"18",28131,0.000635023776471631,43,43,"S","Prevotella intermedia","Prevotella intermedia","Bacteria","G-","普雷沃菌属","中间普雷沃菌","普雷沃菌属(Prevotella)是近年来从类杆菌属中分出的一个新菌属，最常见的是产黑色素普雷沃菌（P.melaninogenica）。主要集聚于正常人体的口腔、女性生殖道等部位，组成这些部位的正常菌群，仅次于脆弱类杆菌。它是临床上较常见的一种条件致病菌，可引起这些部位的内源性感染，女性生殖道及口腔感染多见，与结缔组织的分解有关。",43
+"19",28132,0.00053164781285997,36,36,"S","Prevotella melaninogenica","Prevotella melaninogenica","Bacteria","G-","普雷沃菌属","产黑素普雷沃菌","普雷沃菌属(Prevotella)是近年来从类杆菌属中分出的一个新菌属，最常见的是产黑色素普雷沃菌（P.melaninogenica）。主要集聚于正常人体的口腔、女性生殖道等部位，组成这些部位的正常菌群，仅次于脆弱类杆菌。它是临床上较常见的一种条件致病菌，可引起这些部位的内源性感染，女性生殖道及口腔感染多见，与结缔组织的分解有关。",36
+"20",28135,0.000664559766074962,45,45,"S","Prevotella oris","Prevotella oris","Bacteria",NA,NA,NA,NA,45
+"21",29394,0.000221519922024987,15,15,"S","Dolosigranulum pigrum","Dolosigranulum pigrum","Bacteria",NA,NA,NA,NA,15
+"22",29524,0.000310127890834982,21,21,"S","Porphyromonas circumdentaria","Porphyromonas circumdentaria","Bacteria","0","卟啉单胞菌属","环齿卟啉单胞菌","无人类致病性报道。",21
+"23",31973,0.000502111823256638,34,34,"S","Eggerthia catenaformis","Eggerthia catenaformis","Bacteria",NA,NA,NA,NA,34
+"24",33033,0.000930383672504947,63,63,"S","Parvimonas micra","Parvimonas micra","Bacteria","G+","微单胞菌属","微小微单胞菌","革兰氏阳性 厌氧球菌.常常从慢性牙周炎患者的牙菌斑中分离出来。是混合厌氧菌感染的常见成分，如腹腔内脓肿。",63
+"25",36875,0.00118143958413327,80,80,"S","Porphyromonas canoris","Porphyromonas canoris","Bacteria","0","卟啉单胞菌属","犬卟啉单胞菌","无人类致病性报道。",80
+"26",43131,0.000147679948016658,10,10,"S","Tissierella praeacuta","Tissierella praeacuta","Bacteria","G-","0","0","Tissierella praeacuta 已报道罕见引起关节脓肿、菌血症。",10
+"27",43770,0.000295359896033317,20,20,"S","Corynebacterium striatum","Corynebacterium striatum","Bacteria","G+","棒状杆菌属","纹带棒状杆菌","是人或动物鼻腔，咽喉部的正常菌群。近年来国外有报道，与棒状杆菌相关的院感明显增多，可引起血流感染，脑膜炎等。",20
+"28",43995,0.0052721741441947,357,357,"S","Johnsonella ignava","Johnsonella ignava","Bacteria",NA,NA,NA,NA,357
+"29",43997,0.00017721593761999,12,12,"S","Catonella morbi","Catonella morbi","Bacteria",NA,NA,NA,NA,12
+"30",51160,0.00485867028974806,329,329,"S","Treponema maltophilum","Treponema maltophilum","Bacteria",NA,NA,NA,NA,329
+"31",53418,0.00221519922024987,150,150,"S","Treponema lecithinolyticum","Treponema lecithinolyticum","Bacteria",NA,NA,NA,NA,150
+"32",53419,0.0205570487639188,1392,1392,"S","Treponema socranskii","Treponema socranskii","Bacteria",NA,NA,NA,NA,1392
+"33",67082,0.333333333333333,1,1,"S","BeAn 58058 virus","BeAn 58058 virus","Viruses","vir",NA,"0","0",1
+"34",69710,0.000428271849248309,29,29,"S","Treponema vincentii","Treponema vincentii","Bacteria",NA,NA,NA,NA,0.674490759476595
+"35",76859,0.000324895885636648,22,22,"S","Fusobacterium animalis","Fusobacterium animalis","Bacteria",NA,NA,NA,NA,22
+"36",99481,0.00070886375047996,48,48,"S","Tetrasphaera japonica","Tetrasphaera japonica","Bacteria",NA,NA,NA,NA,48
+"37",111105,0.000251055911628319,17,17,"S","Porphyromonas gulae","Porphyromonas gulae","Bacteria",NA,NA,NA,NA,17
+"38",129951,0.333333333333333,2,1,"S","Human mastadenovirus C","Human mastadenovirus C","Viruses","vir",NA,"人类哺乳动物腺病毒","急性呼吸道疾病（acute respiratory diseases，ARD）这一综合征由咽炎、发热、咳嗽和全身不适为特点，常在军队的新兵中流行，多因突然紧张、劳累、聚集等所致。此感染多由腺病毒4、7型引起，也可见于3型。",1
+"39",138851,0.00581858995185634,394,394,"S","Treponema parvum","Treponema parvum","Bacteria",NA,NA,NA,NA,394
+"40",143361,0.0351478276279647,2380,2380,"S","Filifactor alocis","Filifactor alocis","Bacteria","G+","产线菌属","龈沟产线菌","产线菌属菌种，革兰阳性，厌氧，是新发现的一种引起牙周病的细菌。",2380
+"41",368607,0.00159494343857991,108,108,"S","Janthinobacterium svalbardensis","Janthinobacterium svalbardensis","Bacteria","0","紫色杆菌属","0","0",108
+"42",371674,0.000383967864843312,26,26,"S","Moryella indoligenes","Moryella indoligenes","Bacteria",NA,NA,NA,NA,26
+"43",373672,0.000635023776471631,43,43,"S","Chryseobacterium gambrini","Chryseobacterium gambrini","Bacteria",NA,NA,NA,NA,43
+"44",467210,0.000797471719289955,54,54,"S","Lachnoanaerobaculum saburreum","Lachnoanaerobaculum saburreum","Bacteria",NA,NA,NA,NA,54
+"45",555313,0.000206751927223322,14,14,"S","Phocaeicola abscessus","Phocaeicola abscessus","Bacteria",NA,NA,NA,NA,14
+"46",796937,0.0012109755737366,82,82,"S","Peptoanaerobacter stomatis","Peptoanaerobacter stomatis","Bacteria",NA,NA,NA,NA,82
+"47",796942,0.000428271849248309,29,29,"S","Stomatobaculum longum","Stomatobaculum longum","Bacteria",NA,NA,NA,NA,29
+"48",979627,0.000369199870041646,25,25,"S","Lachnoanaerobaculum orale","Lachnoanaerobaculum orale","Bacteria",NA,NA,NA,NA,25
+"49",1501329,0.000265823906429985,18,18,"S","Oribacterium parvum","Oribacterium parvum","Bacteria",NA,NA,NA,NA,18
+"50",1856638,0.000265823906429985,18,18,"S","Streptococcus bovimastitidis","Streptococcus bovimastitidis","Bacteria",NA,NA,NA,NA,18
+"51",1986146,0.00397259060164811,269,269,"S","Desulfobulbus oralis","Desulfobulbus oralis","Bacteria",NA,NA,NA,NA,269
+"52",2490855,0.000664559766074962,45,45,"S","Lachnoanaerobaculum gingivalis","Lachnoanaerobaculum gingivalis","Bacteria",NA,NA,NA,NA,45
+"53",2762557,0.00369199870041646,250,250,"S","Campylobacter massiliensis","Campylobacter massiliensis","Bacteria",NA,NA,NA,NA,18.6930296197799
+"54",2799636,0.000221519922024987,15,15,"S","Catonella massiliensis","Catonella massiliensis","Bacteria",NA,NA,NA,NA,15
+"55",2861284,0.000590719792066633,40,40,"S","Janthinobacterium sp. PAMC25594","Janthinobacterium sp. PAMC25594","Bacteria",NA,NA,NA,NA,40
+"56",2888525,0.000472575833653307,32,32,"S","Thermomonas alba","Thermomonas alba","Bacteria",NA,NA,NA,NA,0
