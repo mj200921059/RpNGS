@@ -1,6 +1,6 @@
 #' mircrobes identification based on fastq file analysis 
 #' User should create a conda env and install fastp, bowtie2, kraken2,bracken.
-#' 
+#' kraken2, bracken website[link]https://benlangmead.github.io/aws-indexes/k2 provide various databases.
 #' 
 #' 
 #' @param distdir directory where all the results will be saved.
