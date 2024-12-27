@@ -27,7 +27,8 @@ The summary tab empowers users to visually analyze the accomplished mNGS test. T
 
 ---
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/3ac9b75a-e898-4e27-a367-9945c8799445)
+
 
 In RpNGS second tab, the trained experimenter should update the information of each batch including flow cell id, sample id, nucleic acids concentration after extraction and library preparation steps, adaptor id, and file name of sequencing data. Then start the process step by click the process button. There are six steps inside the process pipeline including detecting and copying the sequencing data from sequencer to server, quality control, host reads removal, and classification, abundance estimate, mapped reads extraction. To assist with distinguishing reads from microbes existing in the reagent and lab’s environment, RpNGS calculated z-scores of taxons in each sample by compared relative abundance estimations of specie to water-only or other control sample collections. The progress bar will track the status of five essential processes during data analyze.
 
