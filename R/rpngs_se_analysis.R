@@ -7,15 +7,15 @@
 #' @param fastq_idr directory of the fastq files.
 #' @param n_thread number of cores to use.
 #' 
-#' @return HTML report of the fastq files under preprocess directory.
+#' @return csv files in 04rawresults folder.
 # 
 #' @example 
 #' 
 #'  
 
-# run_fastp("/home/dell/dataanalysis/projects/web/fastq/20240326","/home/dell/dataanalysis/projects/mngs/20240326/fastq",48)
+# run_pngsanalysis("/home/dell/dataanalysis/projects/web/fastq/20240326","/home/dell/dataanalysis/projects/mngs/20240326/fastq",48)
 
-# run_fastp("/home/dell/dataanalysis/projects/web/fastq/shiping2023","/home/dell/dataanalysis/projects/mngs/20240227/fastq",48)
+
 
 
 run_pngsanalysis <- function(destdir,fastq_dir,n_thread){
