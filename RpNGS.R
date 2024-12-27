@@ -405,7 +405,7 @@ server <- function(input, output, session){
     print(info)
     if(length(datafr1[which(datafr1$Sample_id %in% info), ])!=0){
       # Specify the file path
-      file_path <- paste0(path4datasets,datafr1[which(datafr1$Sample_id %in% info), "Chip_id"],"/06finalreports/",info,".docx")  # Replace with the actual file path
+      file_path <- paste0(path4results,datafr1[which(datafr1$Sample_id %in% info), "Chip_id"],"/06finalreports/",info,".docx")  # Replace with the actual file path
       print(1)
       if(file.exists(file_path)) {
         # File exists; open it with microsoft word
