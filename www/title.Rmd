@@ -4,4 +4,4 @@ output: html_document
 ---
 
 <center> <h2>
-<span style="color:darkblue">General Reviewer Clinical Metagenomics Detection</span></h2> </center>
+<span style="color:darkblue">General Review Clinical Metagenomics Detection</span></h2> </center>
