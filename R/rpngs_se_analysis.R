@@ -1,7 +1,7 @@
-#' QC report and filter and preprocessing for FASTQ files 
+#' mircrobes identification based on fastq file analysis 
+#' User should create a conda env and install fastp, bowtie2, kraken2,bracken.
 #' 
-#' \code{run_fastp} HTML report of each fastq files using fastp v
-#' You need to create a conda env and install fastp, bowtie2, kraken2,bracken.
+#' 
 #' 
 #' @param distdir directory where all the results will be saved.
 #' @param fastq_idr directory of the fastq files.
