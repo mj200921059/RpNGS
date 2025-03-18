@@ -1,0 +1,130 @@
+"","taxonomy_id","Perct","Reads","Specific_reads","Level","Taxa_names","species","Kingdom","Gram+/-","菌属中文名","菌种中文名","名词解释"
+"1",470,7.94225576217386e-05,59,59,"S","Acinetobacter baumannii","Acinetobacter baumannii","Bacteria","G-","不动杆菌属","鲍曼不动杆菌","广泛分布于土壤，水和健康人的皮肤，咽，结膜，唾液，肠胃道，阴道分泌物中，有机会致病性，是导致医院感染的常见菌之一。该菌粘附性强，易粘附在各类医用材料上，常侵犯免疫功能受损宿主（免疫功能受抑制，术后，呼吸机相关性肺炎，烧伤，ICU患者，装置相关感染及营养不良的患者），感染部位还包括脑膜炎（神经外科术后并发感染，大多与侵入性操作有关，如颅脑手术，脑室外引流术，腰大池引流等），肝脓肿，心内膜炎，脑脓肿。血流感染通常是导管相关性血流感染，或继发于院内获得性肺炎或呼吸机相关性肺炎的序列感染。"
+"2",562,0.000755187369928735,561,561,"S","Escherichia coli","Escherichia coli","Bacteria","G-","埃希菌属","大肠埃希菌","是临床上最常见，最重要的埃希菌属菌种，革兰阴性，兼性厌氧，是人类肠道中重要的正常菌群。有机会致病性，能引起免疫力下降宿主的肠道外感染，某些血清型的大肠埃希菌能导致人类肠胃炎。该菌致病物质为黏附素，外毒素，内毒素等。多数在肠道内不致病，但移位至肠道外组织或器官则可引起感染，多为内源性感染，一般导致败血症，新生儿脑膜炎（非内源性），泌尿道感染（多为尿路致病性大肠埃希菌导致）；某些血清型可导致人类胃肠炎，为外源性感染，包括肠产毒性大肠艾希菌，肠侵袭性大肠埃希菌，肠致病性大肠埃希菌，肠出血性大肠埃希菌，肠聚集性大肠埃希菌。"
+"3",573,0.000343266986331243,255,255,"S","Klebsiella pneumoniae","Klebsiella pneumoniae","Bacteria","G-","克雷伯菌属","肺炎克雷伯菌","广泛存在于自然界以及人类的呼吸道和肠道中，为条件致病菌，亦是院内感染的重要致病菌，可引起呼吸道、泌尿生殖系感染，创伤、败血症及腹泻。"
+"4",584,6.59611071773761e-05,49,49,"S","Proteus mirabilis","Proteus mirabilis","Bacteria","G-","变形菌属","奇异杆菌","是仅次于大肠杆菌，引起泌尿系统感染的主要病原菌，肾结核和膀胱结石的形成可能与其有关。有的菌株还可引起脓毒症、食物中毒、腹膜炎、脑膜炎等。"
+"5",645,1.74998855776712e-05,13,13,"S","Aeromonas salmonicida","Aeromonas salmonicida","Bacteria","G-","气单胞菌属","杀鲑气单胞菌","气单胞菌属菌种，是鲑科鱼类的重要致病菌，全球各地都有分布。"
+"6",729,3.09613360220337e-05,23,23,"S","Haemophilus parainfluenzae","Haemophilus parainfluenzae","Bacteria","G-","嗜血杆菌属","副流感嗜血杆菌","副流感嗜血杆菌主要寄生在呼吸道，是引起下呼吸道感染的常见致病菌，并与许多感染性疾病如菌血症，脑膜炎，脓毒性关节炎等，人类是唯一的宿主，副流感嗜血杆菌是社区获得性肺炎和其他呼吸道感染的重要致病菌。"
+"7",1249,1.74998855776712e-05,13,13,"S","Weissella paramesenteroides","Weissella paramesenteroides","Bacteria","G+","魏斯氏菌属","类肠膜魏斯氏菌","类肠膜魏斯氏菌从食物中分离，无致病性报道。"
+"8",1280,0.000177691145865585,132,132,"S","Staphylococcus aureus","Staphylococcus aureus","Bacteria","G+","葡萄球菌属","金黄色葡萄球菌","金黄色葡萄球菌是广泛存在于自然界中的革兰氏阳性菌，有较强的毒力及侵袭力，可引起皮肤的浅表感染如疱疹、疥疮等；呼吸道感染如坏死性肺炎、鼻窦炎；中枢神经系统感染多见于术后脑膜炎或与菌血症、心内膜炎相关的脑膜炎或大脑炎；血流感染及由菌血症血行散播引起各器官的感染。"
+"9",1282,1.74998855776712e-05,13,13,"S","Staphylococcus epidermidis","Staphylococcus epidermidis","Bacteria","G+","葡萄球菌属","表皮葡萄球菌","表皮葡萄球菌是人体皮肤和粘膜上定居的正常菌群之一，为人类机会致病菌，通常致病力很低、近几年来，随着留置静脉导管等侵袭性操作的增多，该菌可寄居在医疗设备上（如人工心脏瓣膜），引起术后感染及亚急性细菌性心内膜炎、腹膜炎、泌尿系感染、眼内炎、中耳炎及各类伤口等感染等，已成为医院感染的重要致病菌。"
+"10",1302,7.67302675328661e-05,57,57,"S","Streptococcus gordonii","Streptococcus gordonii","Bacteria","G+","链球菌属","格氏链球菌","格氏链球菌，存在于人的口腔中，机会致病，可引起罕见的感染性心内膜炎。"
+"11",1303,0.0015857588623459,1178,1178,"S","Streptococcus oralis","Streptococcus oralis","Bacteria","G+","链球菌属","口腔链球菌","口腔链球菌是缓症链球菌群中一种，是人类口腔常见的正常菌群，主要分布于颊、腭粘膜。在集体免疫力低下时，可引起心内膜炎、前列腺炎等。"
+"12",1304,6.19226720440674e-05,46,46,"S","Streptococcus salivarius","Streptococcus salivarius","Bacteria","G+","链球菌属","唾液链球菌","唾液链球菌，人类口腔正常寄居菌，有少见的机会致病性"
+"13",1305,0.000154806680110169,115,115,"S","Streptococcus sanguinis","Streptococcus sanguinis","Bacteria","G+","链球菌属","血链球菌","血链球菌，人类口腔正常寄居菌，有少见的机会致病性，可导致心内膜炎。"
+"14",1307,0.000449612444841707,334,334,"S","Streptococcus suis","Streptococcus suis","Bacteria","G+","链球菌属","猪链球菌","猪链球菌能引起人畜共患的急性传染病，主要通过伤口感染。部分菌株可以引起人类感染，造成细菌性脑炎或中毒样休克综合征。"
+"15",1308,0.00163152779385673,1212,1212,"S","Streptococcus thermophilus","Streptococcus thermophilus","Bacteria","G+","链球菌属","嗜热链球菌","目前无致病性报道。"
+"16",1309,1.88460306221075e-05,14,14,"S","Streptococcus mutans","Streptococcus mutans","Bacteria","G+","链球菌属","变异链球菌","变异链球菌是人类主要的致龋微生物，其在空腔中定值与龋病密切相关。"
+"17",1310,2.01921756665437e-05,15,15,"S","Streptococcus sobrinus","Streptococcus sobrinus","Bacteria","G+","链球菌属","表兄链球菌","表兄链球菌为口腔定植菌，目前无致病性报道。"
+"18",1311,0.000883071149150179,656,656,"S","Streptococcus agalactiae","Streptococcus agalactiae","Bacteria","G+","链球菌属","无乳链球菌","无乳链球菌是造成孕妇产褥期脓毒血症和新生儿脑膜炎的重要原因。该菌寄生在产妇生殖道，可致婴儿感染，也可引起产后感染、菌血症、心内膜炎、皮肤和软组织感染及骨髓炎。"
+"19",1313,0.97768495359838,726285,726285,"S","Streptococcus pneumoniae","Streptococcus pneumoniae","Bacteria","G+","链球菌属","肺炎链球菌","肺炎链球菌为口腔和鼻咽部正常菌群，一般不致病。当机体抵抗力下降时，可引起大叶性肺炎或支气管肺炎，还可引起化脓性脑膜炎、中耳炎、乳突炎、鼻窦炎、脑脓肿、菌血症和心内膜炎等。"
+"20",1314,0.000510188971841338,379,379,"S","Streptococcus pyogenes","Streptococcus pyogenes","Bacteria","G+","链球菌属","化脓链球菌","化脓链球菌是引起化脓性感染的主要病原菌，致病力最强，可引起痈、蜂窝织炎、急性咽炎、丹毒、脓胞疮、猩红热、医源性创口感染和产后感染等。此外，其感染后也可引起急性、慢性风湿热和急性肾小球肾炎等严重变态反应性并发症"
+"21",1318,4.98073666441412e-05,37,37,"S","Streptococcus parasanguinis","Streptococcus parasanguinis","Bacteria","G+","链球菌属","副血链球菌","副血链球菌，有较罕见的机会致病性，可导致心内膜炎、肺部感染等。"
+"22",1328,0.000142691374710242,106,106,"S","Streptococcus anginosus","Streptococcus anginosus","Bacteria","G+","链球菌属","咽峡炎链球菌","咽峡炎链球菌是星座链球菌中一种。广泛分布于外部环境及人和动物的体表，口鼻腔和肠道，可引起心内膜炎、肺炎、菌血症、腹腔或皮肤感染等。"
+"23",1334,0.000228844657554162,170,170,"S","Streptococcus dysgalactiae","Streptococcus dysgalactiae","Bacteria","G+","链球菌属","停乳链球菌","停乳链球菌可引起菌血症、心内膜炎、脑膜炎、脓毒性关节炎、呼吸道和皮肤感染等疾病。"
+"24",1335,0.00105403156979358,783,783,"S","Streptococcus equinus","Streptococcus equinus","Bacteria",NA,NA,NA,NA
+"25",1336,3.76920612442149e-05,28,28,"S","Streptococcus equi","Streptococcus equi","Bacteria","G+","链球菌属","马链球菌","马链球菌是一种条件致病菌，可从伤口感染和菌血症标本中分离。"
+"26",1338,4.84612215997049e-05,36,36,"S","Streptococcus intermedius","Streptococcus intermedius","Bacteria","G+","链球菌属","中间链球菌","中间链球菌是星座链球菌中一种。广泛分布于外部环境及人和动物的体表，口鼻腔和肠道，可引起心内膜炎、肺炎、菌血症、腹腔或皮肤感染等。"
+"27",1341,4.17304963775237e-05,31,31,"S","Streptococcus ratti","Streptococcus ratti","Bacteria",NA,NA,NA,NA
+"28",1345,1.74998855776712e-05,13,13,"S","Streptococcus ferus","Streptococcus ferus","Bacteria","G+","链球菌属","野生链球菌","野生链球菌无人类致病性报道。"
+"29",1346,8.48071377994836e-05,63,63,"S","Streptococcus iniae","Streptococcus iniae","Bacteria","G+","链球菌属","海豚链球菌","海豚链球菌无人类致病性报道。"
+"30",1349,1.48075954887987e-05,11,11,"S","Streptococcus uberis","Streptococcus uberis","Bacteria","G+","链球菌属","乳房链球菌","乳房链球菌，是导致牛的乳腺炎的病原菌。对人类具有极罕见的机会致病性，只有少数的伤口感染的病例报告。"
+"31",1351,6.32688170885036e-05,47,47,"S","Enterococcus faecalis","Enterococcus faecalis","Bacteria","G+","肠球菌属","粪肠球菌","肠球菌属模式菌种，革兰阳性，兼性厌氧，是人类肠道，口腔等部位的正常寄居菌。具有致病性，是导致医院感染的重要病原菌，肠球菌临床分离菌中粪肠球菌占85%095%。感染最常见为尿路感染，医院内尿路感染仅次于大肠埃希菌，一般表现为膀胱炎，肾盂肾炎，少数表现为肾周围脓肿；其次为腹腔盆腔感染，败血症，心内膜炎等。"
+"32",1352,8.74994278883561e-05,65,65,"S","Enterococcus faecium","Enterococcus faecium","Bacteria","G+","肠球菌属","屎肠球菌","是革兰阳性，兼性厌氧菌，是人体肠道的正常菌种，具有益生作用，同时具有机会致病性。肠球菌临床分离菌中屎肠球菌占5010%，可导致尿路感染，腹腔盆腔感染，败血症等。"
+"33",1392,0.000152114390021296,113,113,"S","Bacillus anthracis","Bacillus anthracis","Bacteria","G+","芽胞杆菌属","炭疽芽胞杆菌","炭疽芽胞杆菌主要引起食草动物炭疽病，也可传染给人和肉食动物（人因食用或解除炭疽病的动物及畜产品而发生感染），人类以皮肤炭疽较多，也可引起肠炭疽，若引起败血症，可继发炭疽性脑膜炎。该菌具有高致病性，是世界卫生组织确立的必须通报的动物疫病。"
+"34",1396,4.98073666441412e-05,37,37,"S","Bacillus cereus","Bacillus cereus","Bacteria","G+","芽胞杆菌属","蜡样芽胞杆菌","蜡样芽胞杆菌引起的细菌性食物中毒比较常见。该菌进入体内后产生耐热和不耐热两种毒素，分别导致呕吐型和腹泻型两类症状。血流感染少见，可并发混合感染包括手术切口感染或肿瘤坏死继发感染；脑膜炎，脑脓肿少见，可由于耳炎，乳突炎，神经外科手术，脑室腹腔分流术并发；眼部感染为创伤后眼内炎的首要致病菌，也可导致角膜炎，眶周脓肿，结膜炎和泪囊炎；心内膜炎为静脉注射吸毒人群罕见的并发症，三尖瓣感染性心内膜炎多为惰性病程；软组织感染为罕见筋膜炎；肺炎为免疫功能受损宿主出现的罕见病原菌，临床表现为炭疽肺炎。"
+"35",1423,4.71150765552687e-05,35,35,"S","Bacillus subtilis","Bacillus subtilis","Bacteria","G+","芽胞杆菌属","枯草芽胞杆菌","枯草芽胞杆菌广泛存在于土壤，尘埃和环境中，为条件致病菌，可致呼吸道感染，心内膜炎及菌血症，脓毒血症。"
+"36",1428,1.34614504443625e-05,10,10,"S","Bacillus thuringiensis","Bacillus thuringiensis","Bacteria","G+","芽孢杆菌属","苏云金芽孢杆菌","0"
+"37",1452,0.000535765727685627,398,398,"S","Bacillus atrophaeus","Bacillus atrophaeus","Bacteria","G+","芽孢杆菌属","萎缩芽孢杆菌","0"
+"38",1491,3.76920612442149e-05,28,28,"S","Clostridium botulinum","Clostridium botulinum","Bacteria","G+","梭菌属","肉毒梭菌","梭菌属主要致病菌种之一，主要存在于土壤中，革兰阳性，严格厌氧。该菌在厌氧环境下可产生剧烈的神经外毒素——肉毒毒素，该毒素是目前已知的最剧烈的毒物，可作用于外周胆碱能神经，抑制神经肌肉接点处神经介质乙酰胆碱的释放，导致弛缓性麻痹。该菌主要导致人类食物中毒，主要通过食用了被该菌或肉毒毒素污染的食物（主要为发酵豆制品），引起单纯性毒素中毒，而非细菌感染，中毒后胃肠道症状少见，主要为神经末梢麻痹，先有不典型的乏力，头痛，接着出现复视，斜视，眼睑下垂等眼肌麻痹症状，再是吞咽，咀嚼困难，口干，口齿不清等咽部肌肉麻痹症状，进而膈肌麻痹，呼吸困难，直至呼吸停止致死，很少见肢体麻痹；该菌还可导致婴儿肉毒病，1岁以下，特别是6个月内的婴儿常见，症状为便闭和吮吸，啼哭无力，死亡率不高（1%02%）；若创口被感染，在局部的厌氧环境中释放出肉毒毒素也可导致机体致病。防治主要是加强食品卫生管理和监督，80℃加热食品20分钟可破坏毒素。对患者需根据症状尽早作出诊断，迅速注射A，B，E三型多价抗毒素，同时加强护理，维持呼吸功能，可显著降低死亡率。"
+"39",1584,4.84612215997049e-05,36,36,"S","Lactobacillus delbrueckii","Lactobacillus delbrueckii","Bacteria","G+","乳杆菌属","德氏乳杆菌","革兰氏阳性，摄入乳糖，产生乳酸。不能自主运动，不产生孢子。应用于酸奶制作。可能导致罕见的泌尿道感染。"
+"40",1590,4.71150765552687e-05,35,35,"S","Lactiplantibacillus plantarum","Lactiplantibacillus plantarum","Bacteria",NA,NA,NA,NA
+"41",1597,1.48075954887987e-05,11,11,"S","Lacticaseibacillus paracasei","Lacticaseibacillus paracasei","Bacteria",NA,NA,NA,NA
+"42",1598,1.48075954887987e-05,11,11,"S","Limosilactobacillus reuteri","Limosilactobacillus reuteri","Bacteria",NA,NA,NA,NA
+"43",1613,1.74998855776712e-05,13,13,"S","Limosilactobacillus fermentum","Limosilactobacillus fermentum","Bacteria",NA,NA,NA,NA
+"44",1639,5.65380918663224e-05,42,42,"S","Listeria monocytogenes","Listeria monocytogenes","Bacteria","G+","李斯特菌属","单核细胞增生李斯特氏菌","是革兰氏阳性，兼性厌氧细菌，以食物为传染媒介，是人畜共患的最致命的食源性病原体之一。感染后主要表现为败血症，脑膜炎和单核细胞增多，脑脓肿和后脑膜炎，败血症，菌血症伴死产和早产，胃肠炎，心内膜炎，病灶感染是淋巴结炎，蜂窝组织炎，肺炎，骨髓炎，化脓性关节炎，结膜炎。"
+"45",1747,0.00173652710732276,1290,1290,"S","Cutibacterium acnes","Cutibacterium acnes","Bacteria","G+","丙酸杆菌属","痤疮丙酸杆菌","痤疮丙酸杆菌是一种革兰染色阳性的厌氧短杆菌，细胞内寄生，属于皮肤的正常菌群，一般寄居在皮肤的毛囊及皮脂腺中。随着青少年的发育成熟，毛囊口出现角栓，皮脂腺分泌功能也明显增加，因皮脂含有较多脂肪酸等成分，适合P. acnes的生长及繁殖，从而成为痤疮最主要的病因之一。"
+"46",28037,0.00255229100425113,1896,1896,"S","Streptococcus mitis","Streptococcus mitis","Bacteria","G+","链球菌属","缓症链球菌","是缓症链球菌群中一种，是人类口腔常见的正常菌群，主要分布于颊、腭粘膜。在集体免疫力低下时，可引起心内膜炎、前列腺炎等。"
+"47",28901,0.000238267672865216,177,177,"S","Salmonella enterica","Salmonella enterica","Bacteria","G-","沙门氏菌属","肠沙门氏菌","一种杆状鞭毛虫兼性需氧革兰氏阴性细菌，它的一些血清是严重的人类病原体。大多数沙门氏菌病是由感染了肠溶链球菌的食物引起的，肠溶链球菌经常感染牛和家禽，尽管其他动物如家猫和仓鼠也被证明是人类感染的来源"
+"48",29405,4.44227864663962e-05,33,33,"S","Microlunatus phosphovorus","Microlunatus phosphovorus","Bacteria","G+","小月菌属","积磷小月菌","革兰氏阳性，需氧，球菌."
+"49",29447,3.230748106647e-05,24,24,"S","Xanthomonas albilineans","Xanthomonas albilineans","Bacteria","G-","黄单胞菌属","甘蔗鳞斑病黄单胞菌","植物病原菌"
+"50",33011,4.98073666441412e-05,37,37,"S","Cutibacterium granulosum","Cutibacterium granulosum","Bacteria","0","0","","原为丙酸杆菌（Propionibacterium）属的颗粒丙酸杆菌（Propionibacterium granulosum），寄生于皮肤，具有机会致病性，可导致罕见的感染性心内膜炎，假体感染等。"
+"51",34062,4.98073666441412e-05,37,37,"S","Moraxella osloensis","Moraxella osloensis","Bacteria","G-","莫拉菌属","奥斯陆莫拉菌","是存在于人和动物黏膜上的正常菌群,为条件致病菌,很少致病,可引起肺炎、结膜炎、脑膜炎、脑脓肿、心内膜炎、心包炎等。"
+"52",36651,0.0897009966777409,27,27,"S","Penicillium digitatum","Penicillium digitatum","Eukaryota","fun","青霉属","指状青霉菌","一种植物病原真菌，主要感染柑橘、苹果，通过局部调节柑橘、苹果的PH来增强其毒力，腐蚀果实时会导致其PH下降。"
+"53",38304,0.00012922992426588,96,96,"S","Corynebacterium tuberculostearicum","Corynebacterium tuberculostearicum","Bacteria",NA,NA,NA,NA
+"54",40214,2.96151909775975e-05,22,22,"S","Acinetobacter johnsonii","Acinetobacter johnsonii","Bacteria","G-","不动杆菌属","约翰逊不动杆菌","是不动杆菌属菌种，有机会致病性。"
+"55",40324,0.000156152825154605,116,116,"S","Stenotrophomonas maltophilia","Stenotrophomonas maltophilia","Bacteria","G-","寡养单胞菌属","嗜麦芽糖寡养单胞菌","嗜麦芽寡养单胞菌是重要的医源性感染菌。其中易感因素包括：体弱，免疫功能低下，外伤，插管，手术，移植，使用呼吸机等。寡养单胞菌属为条件致病菌，主要引起院内感染，最常见的是：呼吸道感染、尿道感染、伤口感染，也可引起脑膜炎、菌血症、医源性败血症、心内膜炎等。引起本菌定植和感染的危险因素有：机械通气、广谱抗生素的预防性应用、化疗、插管和中性粒细胞减少等。"
+"56",40559,0.0564784053156146,17,17,"S","Botrytis cinerea","Botrytis cinerea","Eukaryota","fun","葡萄球菌属","灰葡萄孢菌","一种植物致病菌，无人类致病性报道，可侵染多钟植物的幼苗、果实。"
+"57",43675,4.44227864663962e-05,33,33,"S","Rothia mucilaginosa","Rothia mucilaginosa","Bacteria","G+","罗氏菌属","黏液罗氏菌","黏液罗氏菌是存在于人口腔中的正常菌群，也是一种机会致病菌。已报道该菌导致脑膜炎、心内膜炎、肺炎、菌血症等。"
+"58",45634,8.34609927550474e-05,62,62,"S","Streptococcus cristatus","Streptococcus cristatus","Bacteria","G+","链球菌属","嵴链球菌","嵴链链球菌是缓症链球菌群中一种，是人类口腔常见的正常菌群，主要分布于颊、腭粘膜。在集体免疫力低下时，可引起心内膜炎、前列腺炎等。"
+"59",68892,0.0002153832071098,160,160,"S","Streptococcus infantis","Streptococcus infantis","Bacteria",NA,NA,NA,NA
+"60",69781,0.0697674418604651,21,21,"S","Penicillium oxalicum","Penicillium oxalicum","Eukaryota",NA,NA,NA,NA
+"61",71999,0.000165575840465658,123,123,"S","Kocuria palustris","Kocuria palustris","Bacteria","G+","考克氏菌属","沼泽考克氏菌","革兰氏阳性，有从乳糜泻患者十二指肠中分离出来。"
+"62",76775,0.53156146179402,160,160,"S","Malassezia restricta","Malassezia restricta","Eukaryota","fun","马拉色菌属","限制性马拉色菌","在一些早产儿或免疫抑制人群中，厚皮马拉色菌以及一些嗜脂性的马拉色菌还可导致系统感染，如菌血症、间质性肺炎等。"
+"63",76860,0.00191152596309947,1420,1420,"S","Streptococcus constellatus","Streptococcus constellatus","Bacteria","G+","链球菌属","星座链球菌","星座链球菌包括咽峡炎链球菌和中间链球菌。该菌广泛分布于外部环境及人和动物的体表，口鼻腔和肠道，可引起心内膜炎、肺炎、菌血症、腹腔或皮肤感染等。"
+"64",80866,0.00011846076391039,88,88,"S","Delftia acidovorans","Delftia acidovorans","Bacteria","0","代尔夫特菌属","食酸戴尔福特菌","戴尔福特菌属菌种，是环境细菌，革兰阴性，需氧。具有很罕见的机会致病性，主要感染对象是住院或免疫功能低下患者，也可感染免疫功能正常者，可造成肺炎，尿路感染等。"
+"65",82348,2.01921756665437e-05,15,15,"S","Streptococcus pluranimalium","Streptococcus pluranimalium","Bacteria",NA,NA,NA,NA
+"66",85698,8.48071377994836e-05,63,63,"S","Achromobacter xylosoxidans","Achromobacter xylosoxidans","Bacteria","G-","无色杆菌属","木糖氧化无色杆菌","广泛存在于自然及医院环境中,是少见的社区和医院获得性病原菌,近年来逐渐被认为是肺囊性纤维化、免疫系统受损以及患有慢性基础疾病患者的常见致病菌,并可引起广泛的临床感染症状。"
+"67",113107,9.82685882438461e-05,73,73,"S","Streptococcus australis","Streptococcus australis","Bacteria","G+","链球菌属","澳大利亚链球菌","澳大利亚链球菌，是人类口腔正常寄居菌，可引起罕见的机会感染，如脑膜炎。"
+"68",126673,3.49997711553424e-05,26,26,"S","Mycolicibacterium doricum","Mycolicibacterium doricum","Bacteria",NA,NA,NA,NA
+"69",147802,0.00016153740533235,120,120,"S","Lactobacillus iners","Lactobacillus iners","Bacteria",NA,NA,NA,NA
+"70",181762,0.116279069767442,35,35,"S","Psilocybe cubensis","Psilocybe cubensis","Eukaryota",NA,NA,NA,NA
+"71",216816,6.59611071773761e-05,49,49,"S","Bifidobacterium longum","Bifidobacterium longum","Bacteria","G+","双歧杆菌属","长双歧杆菌","双歧杆菌属菌种，益生菌，来自健康人肠道，具有调节肠道健康的功能，还对焦虑症和抑郁症患者有有利作用。"
+"72",257758,0.000564034773618788,419,419,"S","Streptococcus pseudopneumoniae","Streptococcus pseudopneumoniae","Bacteria","G+","链球菌属","假肺炎链球菌","假肺炎链球菌与临床相关性尚未完全确定，目前仅发现该菌与慢性阻塞性肺疾病有关"
+"73",283734,2.01921756665437e-05,15,15,"S","Staphylococcus pseudintermedius","Staphylococcus pseudintermedius","Bacteria","G+","葡萄球菌属","伪中间葡萄球菌（凝固酶阳性）","伪中间葡萄球菌不会引起人类感染，但是当宠物如犬、猫等动物受伤或生病，或者宠物主人身体免疫功能低下时，可引发感染"
+"74",319706,0.000138652939576934,103,103,"S","Mycolicibacterium phocaicum","Mycolicibacterium phocaicum","Bacteria",NA,NA,NA,NA
+"75",361101,2.55767558442887e-05,19,19,"S","Streptococcus pseudoporcinus","Streptococcus pseudoporcinus","Bacteria",NA,NA,NA,NA
+"76",376175,3.09613360220337e-05,23,23,"S","Caldimonas aquatica","Schlegelella aquatica","Bacteria",NA,NA,NA,NA
+"77",450367,1.6153740533235e-05,12,12,"S","Peribacillus frigoritolerans","Peribacillus frigoritolerans","Bacteria",NA,NA,NA,NA
+"78",456999,0.102990033222591,31,31,"S","Rhizoctonia solani","Rhizoctonia solani","Eukaryota",NA,NA,NA,NA
+"79",477697,9.28840080661011e-05,69,69,"S","Streptomyces sp. T12","Streptomyces sp. T12","Bacteria",NA,NA,NA,NA
+"80",492670,5.11535116885774e-05,38,38,"S","Bacillus velezensis","Bacillus velezensis","Bacteria","G+","芽孢杆菌属","贝莱斯芽孢杆菌","0"
+"81",563996,0.000275959734109431,205,205,"S","Sphingomonas hankookensis","Sphingomonas hankookensis","Bacteria",NA,NA,NA,NA
+"82",574650,8.61532828439199e-05,64,64,"S","Micrococcus terreus","Micrococcus terreus","Bacteria",NA,NA,NA,NA
+"83",684066,0.000100960878332719,75,75,"S","Streptococcus lactarius","Streptococcus lactarius","Bacteria",NA,NA,NA,NA
+"84",712623,7.94225576217386e-05,59,59,"S","Streptococcus sp. oral taxon 061","Streptococcus sp. oral taxon 061","Bacteria",NA,NA,NA,NA
+"85",712633,4.44227864663962e-05,33,33,"S","Streptococcus sp. oral taxon 431","Streptococcus sp. oral taxon 431","Bacteria","G+","链球菌属","链球菌属","0"
+"86",1433513,0.000465766185374942,346,346,"S","Streptococcus gwangjuense","Streptococcus gwangjuense","Bacteria",NA,NA,NA,NA
+"87",1501662,2.6922900888725e-05,20,20,"S","Streptococcus parasuis","Streptococcus parasuis","Bacteria",NA,NA,NA,NA
+"88",1523415,0.000141345229665806,105,105,"S","Sphingomonas sp. AAP5","Sphingomonas sp. AAP5","Bacteria",NA,NA,NA,NA
+"89",1528099,6.32688170885036e-05,47,47,"S","Lawsonella clevelandensis","Lawsonella clevelandensis","Bacteria","G+","0","0","从人类脓肿中分离出的革兰氏阳性,厌氧多形性细菌。"
+"90",1758194,2.55767558442887e-05,19,19,"S","Achromobacter sp. AONIH1","Achromobacter sp. AONIH1","Bacteria",NA,NA,NA,NA
+"91",1805478,3.49997711553424e-05,26,26,"S","Olsenella timonensis","Olsenella timonensis","Bacteria",NA,NA,NA,NA
+"92",1811193,4.17304963775237e-05,31,31,"S","Streptococcus pantholopis","Streptococcus pantholopis","Bacteria","G+","链球菌属","潘氏链球菌","潘氏链球菌，分离自藏羚羊粪便，无人类致病性报道。"
+"93",1870984,6.59611071773761e-05,49,49,"S","Anaerococcus mediterraneensis","Anaerococcus mediterraneensis","Bacteria","0","厌氧球菌","0","0"
+"94",1888195,7.53841224884299e-05,56,56,"S","Streptococcus himalayensis","Streptococcus himalayensis","Bacteria","G+","链球菌属","喜马拉雅链球菌","喜马拉雅链球菌无人类致病性报道。"
+"95",1902136,8.88455729327924e-05,66,66,"S","Streptococcus sp. NPS 308","Streptococcus sp. NPS 308","Bacteria","G+","链球菌属","链球菌属","0"
+"96",2020962,0.0332225913621262,10,10,"S","Malassezia vespertilionis","Malassezia vespertilionis","Eukaryota",NA,NA,NA,NA
+"97",2021971,1.34614504443625e-05,10,10,"S","Streptococcus respiraculi","Streptococcus respiraculi","Bacteria",NA,NA,NA,NA
+"98",2173853,4.17304963775237e-05,31,31,"S","Streptococcus chenjunshii","Streptococcus chenjunshii","Bacteria",NA,NA,NA,NA
+"99",2282420,1.34614504443625e-05,10,10,"S","Streptococcus hillyeri","Streptococcus hillyeri","Bacteria",NA,NA,NA,NA
+"100",2420310,0.000209998626932055,156,156,"S","Streptococcus sp. FDAARGOS_522","Streptococcus sp. FDAARGOS_522","Bacteria",NA,NA,NA,NA
+"101",2559073,2.28844657554162e-05,17,17,"S","Cutibacterium modestum","Cutibacterium modestum","Bacteria",NA,NA,NA,NA
+"102",2576376,0.000115768473821517,86,86,"S","Streptococcus sp. 1643","Streptococcus sp. 1643","Bacteria",NA,NA,NA,NA
+"103",2583584,8.88455729327924e-05,66,66,"S","Streptococcus sp. NCTC 11567","Streptococcus sp. NCTC 11567","Bacteria",NA,NA,NA,NA
+"104",2598453,0.000367497597131096,273,273,"S","Streptococcus sp. 116-D4","Streptococcus sp. 116-D4","Bacteria",NA,NA,NA,NA
+"105",2610896,2.6922900888725e-05,20,20,"S","Streptococcus sp. LPB0220","Streptococcus sp. LPB0220","Bacteria",NA,NA,NA,NA
+"106",2664091,1.34614504443625e-05,10,10,"S","Streptococcus zhangguiae","Streptococcus sp. zg-86","Bacteria",NA,NA,NA,NA
+"107",2686210,2.153832071098e-05,16,16,"S","Streptococcus ruminicola","Streptococcus ruminicola","Bacteria",NA,NA,NA,NA
+"108",2759692,3.36536261109062e-05,25,25,"S","Streptococcus sp. Marseille-Q3533","Streptococcus sp. Marseille-Q3533","Bacteria",NA,NA,NA,NA
+"109",2760307,0.0001076916035549,80,80,"S","Paracoccus sp. MC1862","Paracoccus sp. MC1862","Bacteria",NA,NA,NA,NA
+"110",2763670,2.96151909775975e-05,22,22,"S","Wujia chipingensis","Wujia chipingensis","Bacteria",NA,NA,NA,NA
+"111",2819619,0.000273267444020558,203,203,"S","Streptococcus toyakuensis","Streptococcus toyakuensis","Bacteria",NA,NA,NA,NA
+"112",2961895,2.42306107998525e-05,18,18,"S","Bartonella harrusi","Bartonella harrusi","Bacteria",NA,NA,NA,NA
+"113",2972784,0.000223460077376417,166,166,"S","Streptococcus sp. Marseille-Q6470","Streptococcus sp. Marseille-Q6470","Bacteria",NA,NA,NA,NA
+"114",2975952,2.55767558442887e-05,19,19,"S","Actinomycetospora sp. NBC_00405","Actinomycetospora sp. NBC_00405","Bacteria",NA,NA,NA,NA
+"115",2984843,0.000141345229665806,105,105,"S","Methylobacterium flocculans","Methylobacterium sp. FF17","Bacteria",NA,NA,NA,NA
+"116",3020829,6.73072522218124e-05,50,50,"S","Streptococcus sp. HN38","Streptococcus sp. HN38","Bacteria",NA,NA,NA,NA
+"117",3038077,3.49997711553424e-05,26,26,"S","Streptococcus sp. D7B5","Streptococcus sp. D7B5","Bacteria",NA,NA,NA,NA
+"118",3077584,3.49997711553424e-05,26,26,"S","Streptococcus sp. DTU_2020_1001019_1_SI_AUS_MUR_006","Streptococcus sp. DTU_2020_1001019_1_SI_AUS_MUR_006","Bacteria",NA,NA,NA,NA
+"119",10617,0.142857142857143,1,1,"S1","Human papillomavirus 4","Gammapapillomavirus 1","Viruses","vir",NA,"人乳头瘤病毒","是皮肤型的HPV，人群感染率非常普遍，如常见的寻常疣、趾疣、扁平疣等，无法得到具体的感染率，比较引起注意到是高危型的HPV感染和外生殖器的低危型HPV感染造成的生殖器疣和宫颈癌，据统计在全球的性病中，HPV感染引起的生殖器疣占15-20%。"
+"120",10760,0.142857142857143,1,1,"S1","Escherichia phage T7","Teseptimavirus T7","Viruses",NA,NA,NA,NA
+"121",186772,0.142857142857143,1,1,"S","Saccharomyces 20S RNA narnavirus","Saccharomyces 20S RNA narnavirus","Viruses","vir",NA,"0","0"
+"122",333926,0,1,0,"S","Gammapapillomavirus 1","Gammapapillomavirus 1","Viruses",NA,NA,NA,NA
+"123",1235653,0.142857142857143,1,1,"S1","Propionibacterium phage PHL111M01","Pahexavirus PHL111M01","Viruses","vir",NA,"噬菌体","0"
+"124",1833824,0.142857142857143,1,1,"S1","Maize yellow dwarf virus-RMV2","Maize yellow mosaic virus","Viruses","vir",NA,"0","0"
+"125",1856642,0,1,0,"S","Maize yellow mosaic virus","Maize yellow mosaic virus","Viruses",NA,NA,NA,NA
+"126",1977402,0,2,0,"S","Inovirus M13","Inovirus M13","Viruses",NA,NA,NA,NA
+"127",1982284,0,1,0,"S","Pahexavirus PHL111M01","Pahexavirus PHL111M01","Viruses",NA,NA,NA,NA
+"128",1985738,0,1,0,"S","Teseptimavirus T7","Teseptimavirus T7","Viruses",NA,NA,NA,NA
+"129",2847073,0.285714285714286,2,2,"S1","Escherichia phage fd","Inovirus M13","Viruses",NA,NA,NA,NA
