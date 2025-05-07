@@ -2,7 +2,7 @@
 
 
 # Summary
----
+
 RpNGS is a graphical interface application for clinical metagenomics detection including basic data collection in the microbiology laboratory and sequencing data analysis in the computation lab. Experimenter, bioinformatician and clinician can work together for giving a pathogen detection report based on the clinical infomation and the interpretation of mNGS data, using interactive data tables, alignment coverage viewer and word template. Additionally, the analysis pipeline of application enables automated transfer fastq files from sequencer to server. 
 
 # Get started
@@ -11,7 +11,14 @@ RpNGS is a graphical interface application for clinical metagenomics detection i
 
 ### Install conda packages
 > conda create --name fastp
-> conda activate raspir_env
+> conda activate fastp
+> # As combined commands: 
+> conda install -c bioconda trimmomatic samtools bwa 
+
+> # Install trimmomatic [1] 
+> conda install -c bioconda trimmomatic
+> # Install samtools [2] 
+> conda install -c bioconda samtools
 
 ## To run Shiny app:
 
