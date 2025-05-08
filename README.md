@@ -7,7 +7,7 @@ RpNGS is a graphical interface application for clinical metagenomics detection i
 
 # Get started
 
-## Set up the Conda environment
+## Set up the environment
 
 ### Install conda packages
 ```bash
@@ -24,11 +24,10 @@ conda install -c bioconda bowtie2
 ## To run Shiny app:
 
 Open Rstudio, and run below command 
-
-> library("shiny“）
->
-> runGitHub(repo = "RpNGS",username="mj200921059",ref = "main",subdir="RpNGS.R")
-
+```R
+library("shiny“）
+runGitHub(repo = "RpNGS",username="mj200921059",ref = "main",subdir="RpNGS.R")
+```
 ## The general workflow is described in below.
 
 **1. Summary dataset**
