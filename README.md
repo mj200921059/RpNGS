@@ -9,7 +9,7 @@ RpNGS is a novel, user-friendly standalone application capable of storing lab da
 
 **1. summary_module**
 
-![Alt Text](https://pan.baidu.com/s/1wZsKiihbNfTOae1xCbLBkw?pwd=yfp9)
+![Alt Text](www/Fig1a)
 ![image](https://github.com/user-attachments/assets/87f0813d-1820-4f9a-832a-ba5bcd70ba97)
 
 
