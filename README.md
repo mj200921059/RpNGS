@@ -1,9 +1,9 @@
-# RpNGS: an interactive web platform for pathogen report generation using metagenomics data
+# RpNGS: An automated platform for pathogen identification and monitoring in clinical metagenomics data
 
 
 # Summary
 
-RpNGS is a graphical interface application for clinical metagenomics detection including basic data collection in the microbiology laboratory and sequencing data analysis in the computation lab. Experimenter, bioinformatician and clinician can work together for giving a pathogen detection report based on the clinical infomation and the interpretation of mNGS data, using interactive data tables, alignment coverage viewer and word template. Additionally, the analysis pipeline of application enables automated transfer fastq files from sequencer to server. 
+RpNGS is a novel, user-friendly standalone application capable of storing lab data (reagent, primer, contaminant and run configuration), managing clinical metadata, processing FASTQ files and generating analysis and comparative reports (including Word reports) that can be easily reviewed and certified. Its interactive design requires no programming skills, making it a valuable tool for clinical metagenomic pathogen identification. 
 
 # Get started
 
