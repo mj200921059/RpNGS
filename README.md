@@ -10,10 +10,8 @@ RpNGS is a novel, user-friendly standalone application capable of storing lab da
 **1. summary_module**
 
 ![Fig1a](www/Fig1a.png)
-![image](https://github.com/user-attachments/assets/87f0813d-1820-4f9a-832a-ba5bcd70ba97)
 
-
-The summary tab empowers users to visually analyze the accomplished mNGS test. The interactive visualization choice is a map, pie chart, and bar plot to illustrate the sales volume among locations, percentage of each sample type and samples size distribution between months in one year, respectively. RpNGS use main data table to display detail information of processed mNGS test for feasible searching and double checking the clinical reports. Click sample id in the first column will open the clinical metagenomics report word document or give a hint for report generation.
+The summary tab (Fig.1a) empowers users to visually analyze the accomplished mNGS test. The interactive visualization choice is a map, pie chart, and bar plot to illustrate the sales volume among locations, percentage of each sample type and samples size distribution between months in one year, respectively. We also use bar,heatmap, and bubble plot to illustrate the Pathogens distribution among infection types. RpNGS use main data table to display detail information of processed mNGS test for feasible searching and double checking the clinical reports.
 
 **2. analysis_module**
 
