@@ -60,7 +60,16 @@ mkdir bowti2_index_db
 # Create folder for kraken2+bracken database
 mkdir kraken_bracken_db
 ```
+### Set up reference database
+For bowtie2 database, user should download reference genome fasta data and run below code for building bowtie2 index
+```bash
+bowtie2-build -f genome_name.fna genome_name
+```
+For kraken2+bracken database, user can download from their website https://benlangmead.github.io/aws-indexes/k2
 
+Note: You may use a customised reference database. It is however strongly recommended to avoid draft or low-quality reference genomes and use complete sequences of circular microorganisms only.
+
+### 
 
 ## To run Shiny app:
 
