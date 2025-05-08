@@ -14,13 +14,12 @@ RpNGS is a graphical interface application for clinical metagenomics detection i
 # Create fastp conda environment
 conda create --name fastp
 conda activate fastp
-
 # As combined commands: 
-> conda install -c bioconda fastp bowtie2 kraken2 bracken 
-> # Step
-> conda install -c bioconda trimmomatic # Install trimmomatic [1] 
-> # Install samtools [2] 
-> conda install -c bioconda samtools
+conda install -c bioconda fastp bowtie2 kraken2 bracken 
+# Install fastp [1] 
+conda install -c bioconda fastp 
+# Install bowtie2 [2] 
+conda install -c bioconda bowtie2
 ```
 ## To run Shiny app:
 
