@@ -22,10 +22,13 @@ conda install bioconda::fastp
 conda install bioconda::bowtie2
 # Install kraken2 [3] 
 conda install bioconda::kraken2
-# Install bowtie2 [4] 
-conda install bioconda::kraken2
+# Install bracken [4] 
+conda install bioconda::bracken
 
 ```
+### Create working directory
+
+
 ## To run Shiny app:
 
 Open Rstudio, and run below command 
