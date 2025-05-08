@@ -7,7 +7,7 @@ RpNGS is a novel, user-friendly standalone application capable of storing lab da
 
 ## The general workflow is described in below.
 
-**1. Summary dataset**
+**1. summary_module**
 
 ![Alt Text](path/to/image.png)
 ![image](https://github.com/user-attachments/assets/87f0813d-1820-4f9a-832a-ba5bcd70ba97)
@@ -15,7 +15,7 @@ RpNGS is a novel, user-friendly standalone application capable of storing lab da
 
 The summary tab empowers users to visually analyze the accomplished mNGS test. The interactive visualization choice is a map, pie chart, and bar plot to illustrate the sales volume among locations, percentage of each sample type and samples size distribution between months in one year, respectively. RpNGS use main data table to display detail information of processed mNGS test for feasible searching and double checking the clinical reports. Click sample id in the first column will open the clinical metagenomics report word document or give a hint for report generation.
 
-**2. Analyze dataset**
+**2. analysis_module**
 
 ---
 
@@ -24,7 +24,7 @@ The summary tab empowers users to visually analyze the accomplished mNGS test. T
 
 In RpNGS second tab, the trained experimenter should update the information of each batch including flow cell id, sample id, nucleic acids concentration after extraction and library preparation steps, adaptor id, and file name of sequencing data. Then start the process step by click the process button. There are six steps inside the process pipeline including detecting and copying the sequencing data from sequencer to server, quality control, host reads removal, and classification, abundance estimate, mapped reads extraction. To assist with distinguishing reads from microbes existing in the reagent and lab’s environment, RpNGS calculated z-scores of taxons in each sample by compared relative abundance estimations of specie to water-only or other control sample collections. The progress bar will track the status of five essential processes during data analyze.
 
-**3. Test report**
+**3. Report_module**
 
 ---
 
