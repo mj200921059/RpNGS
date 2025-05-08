@@ -51,6 +51,14 @@ conda install bioconda::bracken
 
 ```
 ### Create working directory
+```bash
+# Create reference_database folder
+mkdir reference_database
+
+# Create subfolder for bowtie2 database 
+cd reference_database
+mkdir
+```
 
 
 ## To run Shiny app:
