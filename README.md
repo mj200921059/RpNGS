@@ -54,10 +54,11 @@ conda install bioconda::bracken
 ```bash
 # Create reference_database folder
 mkdir reference_database
-
-# Create subfolder for bowtie2 database 
 cd reference_database
-mkdir
+# Create folder for bowtie2 database 
+mkdir bowti2_index_db
+# Create folder for kraken2+bracken database
+mkdir kraken_bracken_db
 ```
 
 
