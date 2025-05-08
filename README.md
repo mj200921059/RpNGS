@@ -17,9 +17,14 @@ conda activate fastp
 # As combined commands: 
 conda install -c bioconda fastp bowtie2 kraken2 bracken 
 # Install fastp [1] 
-conda install -c bioconda fastp 
+conda install bioconda::fastp
 # Install bowtie2 [2] 
-conda install -c bioconda bowtie2
+conda install bioconda::bowtie2
+# Install kraken2 [3] 
+conda install bioconda::kraken2
+# Install bowtie2 [4] 
+conda install bioconda::kraken2
+
 ```
 ## To run Shiny app:
 
