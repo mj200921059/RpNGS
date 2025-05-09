@@ -20,7 +20,7 @@ source('./modules/analysis_module.R')
 #source('./modules/report_module.R')
 # Define UI
 ui <- shiny::navbarPage(
-  h4("pNGS v0.1.1"), id = "rpngs", selected = "startsets",
+  h4("pNGS v0.1.2"), id = "rpngs", selected = "startsets",
   theme = shinythemes::shinytheme("flatly"),
   
   mod_help_ui("help"),  # 调用 Help 模块
