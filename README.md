@@ -72,7 +72,7 @@ Note: You may use a customised reference database. It is however strongly recomm
 
 ## Raw fastq data analysis
 To who may interest the parameters of each tool that involved in metagenomic data analysis. More details can be found in /R/run_pngsanalysis.R 
-### Fastp
+### Fastp for quality control
 ```R
     cmd <- sprintf(
       "/home/majun/miniconda3/condabin/conda run -n fastp fastp -i %s -o %s -w %d -q 15 -l 36 --json %s --html %s",
@@ -86,7 +86,7 @@ cmd <- sprintf(
       n_thread, qc_file, output_file, sam_file
     )
 ```
-### Kraken2+bracken
+### Kraken2+bracken for taxonomic classification and abundance estimation
 ```R
     cmd_kraken <- sprintf(
       "/home/majun/miniconda3/condabin/conda run -n fastp kraken2 --db /home/dell/dataanalysis/pipelines/databases/h_bavfp_k2db/pngsk2db20240418 --threads %d --use-names --minimum-hit-groups 3 --report-minimizer-data %s --output %s --report %s",
