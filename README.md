@@ -71,7 +71,7 @@ For kraken2+bracken database, user can download from their website https://benla
 Note: You may use a customised reference database. It is however strongly recommended to avoid draft or low-quality reference genomes and use complete sequences of circular microorganisms only.
 
 ## Raw fastq data analysis
-To who may interest the parameter of each tools. More details can be found in /R/run_pngsanalysis.R 
+To who may interest the parameters of each tool that involved in metagenomic data analysis. More details can be found in /R/run_pngsanalysis.R 
 ### Fastp
 ```R
     cmd <- sprintf(
