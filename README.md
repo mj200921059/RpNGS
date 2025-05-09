@@ -59,8 +59,9 @@ cd reference_database
 mkdir bowti2_index_db
 # Create folder for kraken2+bracken database
 mkdir kraken_bracken_db
+
 ```
-### Set up reference database
+### Set-up reference databases
 For bowtie2 database, user should download reference genome fasta data and run below code for building bowtie2 index
 ```bash
 bowtie2-build -f genome_name.fna genome_name
@@ -69,7 +70,37 @@ For kraken2+bracken database, user can download from their website https://benla
 
 Note: You may use a customised reference database. It is however strongly recommended to avoid draft or low-quality reference genomes and use complete sequences of circular microorganisms only.
 
-### 
+## Raw fastq data analysis
+To who may interest the parameter of each tools. More details can be found in /R/run_pngsanalysis.R 
+### Fastp
+```R
+    cmd <- sprintf(
+      "/home/majun/miniconda3/condabin/conda run -n fastp fastp -i %s -o %s -w %d -q 15 -l 36 --json %s --html %s",
+      file, output_file, n_thread, json_file, html_file
+    ) #
+```
+### Bowtie2 for removing host reads
+```R
+cmd <- sprintf(
+      "/home/majun/miniconda3/condabin/conda run -n fastp bowtie2 -p %d -x /home/majun/data_analysis/pipelines/databases/bowtie2/GRCh37/GRCh37 -U %s --very-sensitive --un-gz %s -S %s",
+      n_thread, qc_file, output_file, sam_file
+    )
+```
+### Kraken2+bracken
+```R
+    cmd_kraken <- sprintf(
+      "/home/majun/miniconda3/condabin/conda run -n fastp kraken2 --db /home/dell/dataanalysis/pipelines/databases/h_bavfp_k2db/pngsk2db20240418 --threads %d --use-names --minimum-hit-groups 3 --report-minimizer-data %s --output %s --report %s",
+      n_thread, removed_file, output_file, report_file
+    )
+
+    cmd_bracken <- sprintf(
+      "/home/majun/miniconda3/condabin/conda run -n fastp bracken -d /home/dell/dataanalysis/pipelines/databases/h_bavfp_k2db/pngsk2db20240418 -i %s -o %s -r 50 -l S",
+      report_file, bracken_file
+    )
+```
+
+
+
 
 ## To run Shiny app:
 
