@@ -1,24 +1,5 @@
 # Summary Dataset 模块
 
-# UI 部分
-# mod_summary_ui <- function(id) {
-#   ns <- NS(id)  # 用于命名空间
-#   tabPanel(h4('Summary Dataset'), value = 'startsets',
-#            includeMarkdown(paste0(getwd(),"/www/title.Rmd") ),
-#            div(style = "height:2px;border-width:0;color:gray;background-color:gray", hr()),
-#            # Single Animated Chart
-#            column(6, plotlyOutput(ns("location_stat"), width = "auto", height = "300px") %>% withSpinner(type = 5)),
-#            column(3, plotlyOutput(ns("sampletype_stat"), width = "auto", height = "300px") %>% withSpinner(type = 5)),
-#            column(3, plotlyOutput(ns("month_stat"), width = "auto", height = "300px") %>% withSpinner(type = 5)),
-#            column(12, div(style = "height:2px;border-width:0;color:gray;background-color:gray", hr()),
-#                   div(style = "color:#337ab7;text-align:left;", titlePanel("All Sequenced samples:"))
-#            ),
-#            DT::dataTableOutput(ns('datatable')),
-#            br(),
-#            #includeHTML("./www/html/footer_v4.html")
-#            includeHTML(paste0(getwd(),"/www/html/footer_v4.html"))
-#   )
-# }
 mod_summary_ui <- function(id) {
   ns <- NS(id)  # 用于命名空间
   tabPanel(h4('Summary Dataset'), value = 'startsets',
