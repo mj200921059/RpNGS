@@ -105,6 +105,59 @@ summary_sub_datafr2 <- summary_sub_datafr2 %>%
 # 导出数据（如果需要）
 # write.csv(summary_sub_datafr2, "summary_sub_datafr2.csv", row.names = FALSE)
 
+
+#----------------------------------------------------------
+# Summary pathogen based on each infection 
+#----------------------------------------------------------
+# Load required libraries
+library(dplyr)
+library(tidyr)
+library(stringr)
+
+# Read the data
+#clinical_data <- read.csv("RpNGS_clinicalinfo.csv", stringsAsFactors = FALSE)
+
+# Clean and prepare the data
+pathogen_data <- datafr2 %>%
+  # Remove empty rows
+  filter(!is.na(Infections) & Infections != "") %>%
+  # Select relevant columns
+  select(Sample_id, Infections, Pathogens) %>%
+  # Remove rows with no pathogen data
+  filter(!is.na(Pathogens) & Pathogens != "") %>%
+  # Separate pathogens into individual rows
+  mutate(Pathogens = str_split(Pathogens, ";")) %>%
+  unnest(Pathogens) %>%
+  # Clean up pathogen names and extract read counts
+  mutate(
+    Pathogens = str_trim(Pathogens),
+    pathogen_name = str_extract(Pathogens, "^[A-Za-z ]+"),
+    read_count = as.numeric(str_extract(Pathogens, "[0-9]+"))
+  ) %>%
+  # Remove any remaining empty rows
+  filter(!is.na(pathogen_name) & pathogen_name != "")
+
+# Summarize pathogens by infection type
+pathogen_summary <- pathogen_data %>%
+  group_by(Infections, pathogen_name) %>%
+  summarize(
+    total_reads = sum(read_count, na.rm = TRUE),
+    sample_count = n(),
+    .groups = "drop"
+  ) %>%
+  arrange(Infections, desc(total_reads))
+
+# View the summary
+print(pathogen_summary)
+
+# Optional: Create a more detailed view
+detailed_summary <- pathogen_summary %>%
+  group_by(Infections) %>%
+  mutate(
+    percent_of_total = round(total_reads / sum(total_reads) * 100, 1)
+  ) %>%
+  arrange(Infections, desc(total_reads))
+
 #===============================================================================
 # analysis module
 #----------------------------------
