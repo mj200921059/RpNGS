@@ -77,26 +77,26 @@ To who may interest the parameters of each tool that involved in metagenomic dat
     cmd <- sprintf(
       "/home/majun/miniconda3/condabin/conda run -n fastp fastp -i %s -o %s -w %d -q 15 -l 36 --json %s --html %s",
       file, output_file, n_thread, json_file, html_file
-    ) #
+    ) # Replace /home/majun/miniconda3/condabin/conda with your conda enviroment path
 ```
 ### Bowtie2 for removing host reads
 ```R
 cmd <- sprintf(
       "/home/majun/miniconda3/condabin/conda run -n fastp bowtie2 -p %d -x /home/majun/data_analysis/pipelines/databases/bowtie2/GRCh37/GRCh37 -U %s --very-sensitive --un-gz %s -S %s",
       n_thread, qc_file, output_file, sam_file
-    )
+    ) # Replace /home/majun/data_analysis/pipelines/databases/bowtie2/GRCh37/GRCh37 with your human genome bowtie2 index
 ```
 ### Kraken2+bracken for taxonomic classification and abundance estimation
 ```R
     cmd_kraken <- sprintf(
       "/home/majun/miniconda3/condabin/conda run -n fastp kraken2 --db /home/dell/dataanalysis/pipelines/databases/h_bavfp_k2db/pngsk2db20240418 --threads %d --use-names --minimum-hit-groups 3 --report-minimizer-data %s --output %s --report %s",
       n_thread, removed_file, output_file, report_file
-    )
+    )  # Replace /home/dell/dataanalysis/pipelines/databases/h_bavfp_k2db/pngsk2db20240418 with your kraken2 database
 
     cmd_bracken <- sprintf(
       "/home/majun/miniconda3/condabin/conda run -n fastp bracken -d /home/dell/dataanalysis/pipelines/databases/h_bavfp_k2db/pngsk2db20240418 -i %s -o %s -r 50 -l S",
       report_file, bracken_file
-    )
+    ) # Replace /home/dell/dataanalysis/pipelines/databases/h_bavfp_k2db/pngsk2db20240418 with your bracken database 
 ```
 
 
