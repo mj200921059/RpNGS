@@ -32,6 +32,7 @@ The third tab (fig.1c) shows clinician or certified user, manually decide the pa
 # Get started
 
 ## Set up the environment
+For metagenome assemblers, computational requirements were assessed on a machine with Intel Xeon Processor (2.6 GHz) virtualized to 98 cores (72 cores used) and 200 GB of main memory
 
 ### Install conda packages
 ```bash
